@@ -1,4 +1,5 @@
-﻿<?php 
+﻿<!-- teste git -->
+<?php 
 header ('Content-type: text/html; charset=iso-8859-1');
 header ('Content-type: text/html; charset=utf-8');
 include ("classes/manipulaData.php");
